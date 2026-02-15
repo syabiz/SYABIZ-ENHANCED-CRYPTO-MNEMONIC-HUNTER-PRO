@@ -2,7 +2,7 @@
 
 All notable changes to this project will be documented in this file.
 
-## [6.0] - 2025-02-15
+## [6.0] - 2026-02-15
 
 ### 🎉 Major Release - Complete Rewrite
 
@@ -80,7 +80,7 @@ All notable changes to this project will be documented in this file.
 
 ---
 
-## [5.0] - 2025-01-XX
+## [5.0] - 2026-01-XX
 
 ### Initial Public Release
 
