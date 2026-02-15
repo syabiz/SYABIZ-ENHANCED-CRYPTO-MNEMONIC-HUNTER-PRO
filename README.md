@@ -1,4 +1,4 @@
-# ⚡ SYABIZ ENHANCED CRYPTO MNEMONIC HUNTER PRO v1.0 ⚡
+# ⚡ ENHANCED MNEMONIC HUNTER PRO v1.0 ⚡
 
 ## 🚀 Peningkatan Utama
 
@@ -272,5 +272,16 @@ pip install mnemonic bip-utils requests tkinter
 ---
 
 **Version**: 1.0  
-**Last Updated**: February 2025  
+**Last Updated**: February 2026  
 **Compatibility**: MetaMask, TrustWallet, dan BIP44-compliant wallets
+
+<img src="https://github.com/K3V1991/Donate-Crypto/blob/main/Anime-Girl-Donation.png" width="200"></a>
+<br />
+
+| Cryptocurrency | Address |
+| --- | --- |
+| BTC | bc1qn6t8hy8memjfzp4y3sh6fvadjdtqj64vfvlx58 |
+| ETH | 0x512936ca43829C8f71017aE47460820Fe703CAea |
+| SOL | 6ZZrRmeGWMZSmBnQFWXG2UJauqbEgZnwb4Ly9vLYr7mi |
+| BNB | 0x512936ca43829C8f71017aE47460820Fe703CAea |
+| POL | 0x512936ca43829C8f71017aE47460820Fe703CAea |
